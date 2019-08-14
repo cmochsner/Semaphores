@@ -1,0 +1,8 @@
+Alice 0 6
+Bob 2 5
+Carol 3 6
+Dean 7 4
+Steven 10 6
+Meryl 5 5
+Garrett 9 6
+Lolly 2 14
